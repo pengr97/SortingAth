@@ -11,8 +11,6 @@
 #include <time.h>
 using namespace std;
 
-//¼ÆÊıÅÅĞòËã·¨
-
 int main() {
 	vector<int> lst;
 	int len = 10;
