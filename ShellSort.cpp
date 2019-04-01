@@ -11,8 +11,6 @@
 #include <time.h>
 using namespace std;
 
-//Ï£¶ûÅÅĞò(ËõĞ¡ÔöÁ¿ÅÅĞò)
-
 void shellSort(vector<int>& lst,int d){
 
 	for(int i=0;i<(int)lst.size()-d;i++){
