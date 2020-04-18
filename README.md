@@ -1,16 +1,16 @@
 # SortingAth
 Some commonly used efficient sorting algorithms, such as merge sort, shell sort, quick sort, heap sort, ect.
 
-## Merge sort
+**Merge sort**
 
-## Shell sort
+**Shell sort**
 
-## Quick sort
+**Quick sort**
 
-## Quick select
+**Quick select**
 
-## Heap sort
+**Heap sort**
 
-## Radix sort
+**Radix sort**
 
-## Counting sort
+**Counting sort**
